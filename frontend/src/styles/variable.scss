@@ -1,0 +1,20 @@
+// 全局scss变量
+// 颜色变量
+$color-blue: #18e5f8;
+$color-gray: #909399;
+$color-deep-gray: #5a5959;
+$color-white: white;
+
+// 尺寸变量
+$size-logo-container-height: 60px;
+$size-menu-width: 240px;
+$size-tabbar-height: 59px;
+
+// 动画变量
+$ani-opacity: opacity 0.3s;
+
+// 布局变量
+// 登录表单
+$login-form-bgcolor: $color-blue;
+// 滚动条
+$scrollbar-default-bgcolor: $color-gray;
